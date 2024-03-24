@@ -1,10 +1,7 @@
 <div style="display: flex; justify-content: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PIAIC_Logo.svg" alt="Image 1" style="width: 150px; height: auto;">
-</div>
-
-
-<div>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Image 2" style="display: inline-block; width: 150px; height: auto;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Image 2" style="display: inline-block; width: 150px; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/PIAIC_Logo.svg" alt="Image 1" style="width: 120px; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Image 2" style="display: inline-block; width: 150px; height: auto;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Image 2" style="display: inline-block; width: 180px; height: auto;">
 </div>
 
 <p align="center">
@@ -14,22 +11,17 @@
 TypeScript is a language for application-scale JavaScript. TypeScript adds optional types to JavaScript that support tools for large-scale JavaScript applications for any browser, for any host, on any OS. TypeScript compiles to readable, standards-based JavaScript.
   </p>
 
-  <p align="center">
+<p align="center">
     <a href="https://github.com/AyaanMerchant/PIAIC-Learn-TypeScript/stargazers" alt="Stars">
         <img src="https://img.shields.io/github/stars/AyaanMerchant/PIAIC-Learn-TypeScript?style=for-the-badge" /></a>
     <a href="https://github.com/AyaanMerchant/PIAIC-Learn-TypeScript/network/members" alt="Forks">
         <img src="https://img.shields.io/github/forks/AyaanMerchant/PIAIC-Learn-TypeScript?style=for-the-badge" /></a>
-    <a href="https://github.com/Solido/awesome-flutter">
-        <img alt="Awesome Flutter" src="https://img.shields.io/badge/Awesome-TypeScript-blue.svg?longCache=true&style=for-the-badge" />
-    </a>
-    <a href="https://img.shields.io/badge/TypeScript-3.10-green" alt="TypeScript">
-        <img src="https://img.shields.io/badge/TypeScript-3.10-green?style=for-the-badge" /></a>
-    <a href="https://img.shields.io/badge/TypeScript-2.19-green" alt="Flutter">
-        <img src="https://img.shields.io/badge/TypeScript-2.19-green?style=for-the-badge" /></a>
-  </p>
+    <a href="https://www.typescriptlang.org/" alt="TypeScript Official">
+        <img src="https://img.shields.io/badge/Official-TypeScript-blue.svg?longCache=true&style=for-the-badge" /></a>
+    <a href="https://www.typescriptlang.org/docs/" alt="TypeScript Documentation">
+        <img src="https://img.shields.io/badge/TypeScript-Docs-green?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
   <h2 align="center"> TypeScript Environment Setup </h2>
   <p align="center">
     
